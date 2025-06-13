@@ -3,7 +3,7 @@
 
 해당 프로젝트는 Firebase의 인증 DB와 실시간 DB를 활용하여 로그인한 사용자의 일정을 관리해주는 달력 시스템이다. (in Android Studio)
 
-# 어플의 메인 화면
+# 어플의 메인 화면 
 
 ![스크린샷 2023-11-30 233933](https://github.com/Choiseeun0815/Calendar/assets/103297048/9ec36f39-7616-4c28-ade3-f3ae249149a4)
 
